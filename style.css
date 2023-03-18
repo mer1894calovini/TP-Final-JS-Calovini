@@ -1,0 +1,21 @@
+.imgPrenda{
+    width: 160px;
+    height: 160px;
+    margin-top: 1rem;
+    object-fit: contain;
+
+
+    
+}
+.card{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.colorButton{
+    color:rgb(55, 57, 59);
+    background-color: rgb(134, 218, 218);
+    border: black;
+}
